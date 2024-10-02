@@ -1,0 +1,4 @@
+1/ Il n'y a pas d'incohérence dans le nombre d'assietes car la pile est syncronisé
+
+
+2/  l'essuyeur ne peut prendre d'assiette dans la pile car il n'etais pas notifié par le laveur
